@@ -28,10 +28,21 @@ This project was developed as part of the **NX201 Cybersecurity Program**.
 ## 📂 Project Structure
 
 
+![ProjectDiagram](https://github.com/user-attachments/assets/deb20a09-fdcf-44f5-8557-53dda50fa808)
 
 
 
 ## ⚙️ How It Works
+
+1. Target input and validation
+2. SSH service discovery  
+3. Credential preparation  
+4. Authentication testing  
+5. Post-access verification  
+6. Output and reporting  
+7. Cleanup  
+
+## 📸 Example Output
 <img width="554" height="227" alt="Picture2" src="https://github.com/user-attachments/assets/73a22433-ae04-4543-818e-eff313d8d3d6" />
 <img width="554" height="79" alt="Picture3" src="https://github.com/user-attachments/assets/8bb34c2d-44ea-4ebd-9c07-891f343cc1a9" />
 <img width="503" height="88" alt="Picture4" src="https://github.com/user-attachments/assets/6f59c7e5-9014-410f-9d47-527eeca5c2f7" />
@@ -43,19 +54,5 @@ This project was developed as part of the **NX201 Cybersecurity Program**.
 <img width="554" height="303" alt="Picture12" src="https://github.com/user-attachments/assets/dbc265fb-4402-4e5c-9d7d-44916a77ff2c" />
 <img width="554" height="350" alt="Picture9" src="https://github.com/user-attachments/assets/3f32797d-f328-455c-868c-7d251c5e1baf" />
 <img width="526" height="278" alt="Picture10" src="https://github.com/user-attachments/assets/27afdd4e-cb70-46dc-beaf-355c7c0103f6" />
-
-
-
-1. Target input and validation
-2. SSH service discovery  
-3. Credential preparation  
-4. Authentication testing  
-5. Post-access verification  
-6. Output and reporting  
-7. Cleanup  
-
-
-## 📸 Example Output
-
 
 
