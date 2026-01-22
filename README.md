@@ -32,7 +32,7 @@ This project was developed as part of the **NX201 Cybersecurity Program**.
 
 
 ## ⚙️ How It Works
-<img width="336" height="270" alt="Picture1" src="https://github.com/user-attachments/assets/46a7574d-edc0-49b8-b85a-21014c973e14" /> <img width="554" height="227" alt="Picture2" src="https://github.com/user-attachments/assets/73a22433-ae04-4543-818e-eff313d8d3d6" />
+<img width="336" height="270" alt="Picture1" src="https://github.com/user-attachments/assets/46a7574d-edc0-49b8-b85a-21014c973e14" /\n> <img width="554" height="227" alt="Picture2" src="https://github.com/user-attachments/assets/73a22433-ae04-4543-818e-eff313d8d3d6" />
 
 
 
