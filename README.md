@@ -6,7 +6,6 @@ GhostLogin is an automated cybersecurity tool designed to assess SSH exposure in
 This project was developed as part of the **NX201 Cybersecurity Program**.
 
 ## 🎯 Features
-
 - Target input validation  
 - SSH service discovery using Nmap  
 - Automated authentication testing  
@@ -33,6 +32,7 @@ This project was developed as part of the **NX201 Cybersecurity Program**.
 
 
 ## ⚙️ How It Works
+🎥 צפייה בוידאו: https://jumpshare.com/your_video_link
 
 1. Target input and validation  
 2. SSH service discovery  
