@@ -44,6 +44,8 @@ This project was developed as part of the **NX201 Cybersecurity Program**.
 <img width="554" height="350" alt="Picture9" src="https://github.com/user-attachments/assets/3f32797d-f328-455c-868c-7d251c5e1baf" />
 <img width="526" height="278" alt="Picture10" src="https://github.com/user-attachments/assets/27afdd4e-cb70-46dc-beaf-355c7c0103f6" />
 
+
+
 1. Target input and validation
 2. SSH service discovery  
 3. Credential preparation  
