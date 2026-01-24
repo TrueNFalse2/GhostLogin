@@ -1,12 +1,4 @@
 #!/bin/bash
-# =====================================
-# Class: NX201
-# Unit: PERES25B
-# Project: GhostLogin
-# Student Name: Lior Rimon
-# Student Code: s19
-# Lecturer: Itzhak Azoalis
-# =====================================
 
 LOG_FILE="ghostlogin.log"
 PROOF_PATH="/tmp/.ghostlogin_proof"
